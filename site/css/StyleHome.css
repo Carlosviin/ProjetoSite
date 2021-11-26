@@ -1,3 +1,90 @@
 body {
     background: #8B7565;
 }
+/*Caixa de Curiosidades*/
+.Curiosidades{
+    height: 650px;
+
+}
+.Curiosidades #Imgs {
+    display: inline-block;
+    position: absolute;
+    width: 336px;
+    height: 224px;
+    left: 106px;
+    top: 449px;
+}
+
+.Curiosidades p{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
+
+}
+.Imagem-1 p{
+    position: absolute;
+    width: 336px;
+    height: 352px;
+    left: 106px;
+    top: 673px;
+    background: #c4c4c4;
+    padding: 10px 5px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+
+}
+.Imagem-1 img{
+    position: absolute;
+    width: 336px;
+    height: 224px;
+    left: 106px;
+    top: 449px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+
+}
+.Imagem-2 p{
+    position: absolute;
+    width: 336px;
+    height: 352px;
+    left: 553px;
+    top: 673px;
+    background: #c4c4c4;
+    padding: 10px 5px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.Imagem-2 img{
+    position: absolute;
+    width: 336px;
+    height: 224px;
+    left: 552px;
+    top: 449px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+}
+.Imagem-3 p{
+    position: absolute;
+    width: 336px;
+    height: 352px;
+    left: 998px;
+    top: 673px;
+    background: #c4c4c4;
+    padding: 10px 5px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    
+}
+.Imagem-3 img{
+    position: absolute;
+    width: 336px;
+    height: 224px;
+    left: 998px;
+    top: 449px;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+}
+/*M-V-V*/
