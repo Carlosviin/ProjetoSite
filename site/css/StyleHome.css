@@ -88,3 +88,54 @@ body {
     box-sizing: border-box;
 }
 /*M-V-V*/
+.M-V-V{
+    position: absolute;
+    width: 1352px;
+    height: 336px;
+    left: 44px;
+    top: 1139px;
+    background: #532613;
+}
+.M-V-V h2{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 38px;
+    line-height: 38px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.M-V-V p{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.M-V-V #Missão {
+    position: absolute;
+    width: 369px;
+    height: 150px;
+    left: 50px;
+    top: 60px;
+
+}
+.M-V-V #Visão {
+    position: absolute;
+    width: 408px;
+    height: 152px;
+    left: 487px;
+    top: 60px;
+    
+}
+.M-V-V #Valores {
+    position: absolute;
+    width: 365px;
+    height: 90px;
+    left: 958px;
+    top: 60px;
+    
+}

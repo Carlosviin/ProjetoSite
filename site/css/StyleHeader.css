@@ -1,0 +1,16 @@
+.Header {
+    background-color: #42210B;
+    width: 100%;
+    height: 136px;
+    overflow: hidden;
+}
+#Box-Logo{
+    background-color: #CC8105;
+    width: 242px;
+    height: 136;
+}
+.Logo {
+    width: 107px;
+    height: 118px;
+    margin: 9px 53px;
+}
