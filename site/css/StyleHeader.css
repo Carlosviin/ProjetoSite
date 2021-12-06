@@ -1,4 +1,4 @@
-.Header {
+main {
     background-color: #42210B;
     width: 100%;
     height: 136px;
@@ -13,4 +13,10 @@
     width: 107px;
     height: 118px;
     margin: 9px 53px;
+}
+.Header-right a{
+    display: flex;
+    margin: auto;
+    text-align: center;
+
 }
